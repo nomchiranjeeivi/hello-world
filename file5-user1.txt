@@ -1,1 +1,2 @@
-user1 added. Modified by user2
+user1 added. Modified by user2.
+new line added.
